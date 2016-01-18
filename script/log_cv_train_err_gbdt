@@ -1,0 +1,40 @@
+begin training
+cross_validation score:
+0.826905534566
+train score:
+0.828961768579
+begin training
+cross_validation score:
+0.827075997037
+train score:
+0.830397567981
+begin training
+cross_validation score:
+0.827184643686
+train score:
+0.831755146529
+begin training
+cross_validation score:
+0.826637076496
+train score:
+0.833723622456
+begin training
+cross_validation score:
+0.826732275931
+train score:
+0.836817674036
+begin training
+cross_validation score:
+0.825893139132
+train score:
+0.839538477733
+begin training
+cross_validation score:
+0.825589662618
+train score:
+0.844634706525
+begin training
+cross_validation score:
+0.824483621932
+train score:
+0.849231961285

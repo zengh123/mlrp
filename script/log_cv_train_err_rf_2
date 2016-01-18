@@ -1,0 +1,74 @@
+begin training
+cross_validation score:
+0.698302000286
+train score:
+0.877540032207
+begin training
+cross_validation score:
+0.761144454639
+train score:
+0.961378843189
+begin training
+cross_validation score:
+0.775457557751
+train score:
+0.974264534282
+begin training
+cross_validation score:
+0.786594351284
+train score:
+0.98025956739
+50
+begin training
+cross_validation score:
+0.791131389388
+train score:
+0.981221502144
+100
+begin training
+cross_validation score:
+0.793757187035
+train score:
+0.981336053111
+150
+begin training
+cross_validation score:
+0.795209485515
+train score:
+0.981346859806
+200
+begin training
+cross_validation score:
+0.795710045539
+train score:
+0.981346859806
+250
+begin training
+cross_validation score:
+0.795820603073
+train score:
+0.981346859806
+300
+begin training
+cross_validation score:
+0.795633758981
+train score:
+0.981346859806
+350
+begin training
+cross_validation score:
+0.796064096096
+train score:
+0.981346859806
+400
+begin training
+cross_validation score:
+0.796589414405
+train score:
+0.981346859806
+450
+begin training
+cross_validation score:
+0.796691131594
+train score:
+0.981346859806
